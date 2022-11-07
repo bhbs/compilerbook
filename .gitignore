@@ -1,3 +1,5 @@
-*tmp*
-9cc/9cc
+*~
 *.o
+tmp*
+a.out
+chibicc
